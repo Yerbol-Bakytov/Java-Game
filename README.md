@@ -1,0 +1,2 @@
+# Java-Game
+java game with a maze where the player controls the ball collecting tags appearing on the map, which disappear within 5 seconds. There are also three cards. There are hot keys 'F' and 'E'. On the map where there are obstacles the player may be able to use the key 'F' enable auto-control. On the map where there are no obstacles the player may be able to use the 'E' key to turn on auto-steer.
